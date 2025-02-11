@@ -1,0 +1,15 @@
+{
+  "name": "microservice-on-vm",
+  "version": "1.0.0",
+  "description": "Multiple virtual machines connectivity and deployment of a simple microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["virtualbox", "virtualmachine", "microservice", "nodejs", "express"],
+  "author": "Soumyajit Karan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
